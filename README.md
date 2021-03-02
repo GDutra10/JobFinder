@@ -1,7 +1,7 @@
 # The Goal
 
 The goal here is to create a job opportunity board, where the company register new opportunities and the worker can submit in these new opportunities.
-The project was developed in .Net Core 3.1 in the backend and React JS for the front end. For the database was used MSSQLLocalDB. The authentication was used JWT.
+The project was developed in .Net Core 3.1 on the backend and React JS for the front end. For the database was used MSSQLLocalDB. The authentication was used JWT.
 
 # Technologies
 
